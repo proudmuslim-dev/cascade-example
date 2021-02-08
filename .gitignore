@@ -1,0 +1,19 @@
+.vscode
+.DS_Store
+.lock
+
+# Node modules - npm
+node_modules/
+# Log files
+npm-debug.log*
+
+# Docs
+dist/
+public/
+.cache/
+
+# IntelliJ IDEA
+.idea/
+
+# Windows
+desktop.ini
